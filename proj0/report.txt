@@ -1,0 +1,1 @@
+Used the linked list. No hash table implementation.

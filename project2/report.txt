@@ -1,0 +1,5 @@
+Jacob Dickinson
+My code is a simple solution.
+In main two threads are started: one to recieve packets from the network
+another to send packets to the network. The four functions call bounded 
+buffer functions you have provided. 
